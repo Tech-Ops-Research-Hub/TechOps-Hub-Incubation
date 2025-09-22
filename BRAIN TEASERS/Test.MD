@@ -1,8 +1,3 @@
-Got it ✅
-Here’s the **full `README.md` in one single file**, clean, polished, and ready for GitHub.
-
----
-
 ```markdown
 # Quick Test Challenge – Hub 2 & Hub 3  
 
