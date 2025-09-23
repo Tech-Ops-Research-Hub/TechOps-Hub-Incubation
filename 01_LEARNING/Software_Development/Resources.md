@@ -463,5 +463,3 @@ Monitoring & logs must be isolated and protected.
 * Time-series sensor analytics → **CleanTech: Influx/Timescale + Kafka + Go ingest**.
 
 ---
-
-# Use this as the canonical README for architecture planning and initial implementation. Terminate.
