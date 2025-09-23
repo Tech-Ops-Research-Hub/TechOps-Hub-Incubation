@@ -199,6 +199,6 @@ Structured roadmaps for:
 ---
 
 ## Core Mission
-Most hubs stop at **teaching skills**. At TechOps Hub, we go further — we ensure teams **build real MVPs** in **Edutech, HealthTech, PropTech, CleanTech, Entertainment, and Agritech** that can **scale into the market** with user adoption and partnerships.
+Most hubs stop at **teaching skills**. At TechOps Hub, we go further — we ensure teams **build real MVPs**in **Edutech, HealthTech, PropTech, CleanTech, Entertainment, Agritech etc** that can **scale into the market** with user adoption and partnerships.
 
 > Together, we are **educating innovators and building the next generation of tech entrepreneurs.**
